@@ -2,7 +2,7 @@
 
 **Free Online Mouse Testing Tools**
 
-[mousetester.xyz](https://mousetester.xyz) | [中文介绍](./README.zh-CN.md)
+[mousetester.xyz](https://mousetester.xyz?source=github) | [中文介绍](./README.zh-CN.md)
 
 ---
 
