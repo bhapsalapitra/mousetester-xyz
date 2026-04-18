@@ -2,7 +2,7 @@
 
 **免费在线鼠标测试工具**
 
-[mousetester.xyz](https://mousetester.xyz) | [English](./README.md)
+[mousetester.xyz](https://mousetester.xyz?source=github) | [English](./README.md)
 
 ---
 
